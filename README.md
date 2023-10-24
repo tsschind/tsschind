@@ -2,7 +2,7 @@ My name is Tommy Schindler and I am a junior at the University of Southern Calif
 
 _______________
 
-#### Tech Stacks: 
+**Tech Stacks:**
 
 Backend: C++, Java, Python, MySQL
 
@@ -12,7 +12,7 @@ Other Skills: Git, Firebase, Docker
 
 ________________
 
-#### Relevant Experience:
+**Relevant Experience:**
 
 Course Producer (Programming in C++ | Fall 2023 - Present)
 
