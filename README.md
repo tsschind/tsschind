@@ -1,16 +1,21 @@
-### Hi there 👋
+My name is Tommy Schindler and I am a junior at the University of Southern California studying Computer Science and Business Administration, set to graduate in Spring of 2025.
 
-<!--
-**tsschind/tsschind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_______________
 
-Here are some ideas to get you started:
+#### Tech Stacks: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: C++, Java, Python, MySQL
+
+Frontend: Javascript, HTML, CSS
+
+Other Skills: Git, Firebase, Docker
+
+________________
+
+#### Relevant Experience:
+
+Course Producer (Programming in C++ | Fall 2023 - Present)
+
+_________________
+
+Please feel free to reach out at tsschind@usc.edu or connect with me on LinkedIn
