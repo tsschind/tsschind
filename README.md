@@ -8,7 +8,7 @@ Backend: C++, Java, Python, Spring, MySQL
 
 Frontend: Javascript, HTML, CSS
 
-Other Skills: Git, Firebase, Docker
+Other Skills: Git, Firebase, Docker, R
 
 ________________
 
