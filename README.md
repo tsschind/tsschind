@@ -1,5 +1,6 @@
 My name is Tommy Schindler and I am a junior at the University of Southern California studying Computer Science and Business Administration, set to graduate in Spring of 2025.
 
+LinkedIn: https://www.linkedin.com/in/tommy-schindler-b28431199/
 _______________
 
 **Tech Stacks:**
